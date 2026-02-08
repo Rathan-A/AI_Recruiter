@@ -1,0 +1,26 @@
+# --- Core Frameworks ---
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-huggingface
+langchain-chroma
+
+# --- Vector Database ---
+chromadb
+
+# --- MCP Server ---
+fastmcp
+uvicorn[standard]  # Required for running the ASGI server
+
+# --- Frontend ---
+streamlit
+
+# --- Data Processing & File Handling ---
+pypdf
+sentence-transformers
+# watchdog
+
+# --- Cloud & Utilities ---
+# boto3
+python-dotenv

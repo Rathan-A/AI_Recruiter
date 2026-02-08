@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "resume-screener": {
+            "command": "python",
+            "args": ["Scr/server.py"]
+        }
+    }
+}
